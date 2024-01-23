@@ -1,0 +1,9 @@
+APP_PORT: "8080"
+APP_NAME: "OrderManager"
+
+PROVIDER: "https://arb-sepolia.g.alchemy.com/v2/gdfDyWjLf4q-hwXaXxxKFLCVR-MfBbki"
+PRIVATE_KEY: "77e21a5d64c067f4b0347080d07b0ac46692ba54382f61d2796f53b6a6e06ff6"
+
+CHAIN_ID: "421614" # Arbitrum Sepolia Testnet
+# Postgres
+DB_URI: "host=localhost user=postgres password=postgres dbname=postgres port=5432 sslmode=disable"
